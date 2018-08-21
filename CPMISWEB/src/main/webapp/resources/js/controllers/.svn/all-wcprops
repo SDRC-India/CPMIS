@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers
+END
+reportController.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2111/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/reportController.js
+END
+saaController.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2159/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/saaController.js
+END
+cciSpecialHome.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cciSpecialHome.js
+END
+factSheetController.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/factSheetController.js
+END
+cciOpenShelterController.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cciOpenShelterController.js
+END
+userManualController.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/cpmisweb/!svn/ver/2111/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/userManualController.js
+END
+cwcController.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cwcController.js
+END
+cciPlaceOfSafety.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cciPlaceOfSafety.js
+END
+resetPasswordController.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/resetPasswordController.js
+END
+loginController.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2125/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/loginController.js
+END
+cciController.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cciController.js
+END
+cciChildrenHomeController.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/cciChildrenHomeController.js
+END
+statusReportController.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cpmisweb/!svn/ver/2111/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/statusReportController.js
+END
+ServerErrorController.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cpmisweb/!svn/ver/2111/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/ServerErrorController.js
+END
+dcpuController.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/dcpuController.js
+END
+dashboardctrl.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2111/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/dashboardctrl.js
+END
+jjbController.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/jjbController.js
+END
+sjpuController.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2158/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/resources/js/controllers/sjpuController.js
+END

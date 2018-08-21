@@ -1,0 +1,1176 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf/collations
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+Afrikaans_South_Africa.php
+file
+
+
+
+add
+
+Albanian_Albania.php
+file
+
+
+
+add
+
+Alsatian_France.php
+file
+
+
+
+add
+
+Arabic_Algeria.php
+file
+
+
+
+add
+
+Arabic_Bahrain.php
+file
+
+
+
+add
+
+Arabic_Egypt.php
+file
+
+
+
+add
+
+Arabic_Iraq.php
+file
+
+
+
+add
+
+Arabic_Jordan.php
+file
+
+
+
+add
+
+Arabic_Kuwait.php
+file
+
+
+
+add
+
+Arabic_Lebanon.php
+file
+
+
+
+add
+
+Arabic_Libya.php
+file
+
+
+
+add
+
+Arabic_Morocco.php
+file
+
+
+
+add
+
+Arabic_Oman.php
+file
+
+
+
+add
+
+Arabic_Pseudo_RTL.php
+file
+
+
+
+add
+
+Arabic_Qatar.php
+file
+
+
+
+add
+
+Arabic_Saudi_Arabia.php
+file
+
+
+
+add
+
+Arabic_Syria.php
+file
+
+
+
+add
+
+Arabic_Tunisia.php
+file
+
+
+
+add
+
+Arabic_Yemen.php
+file
+
+
+
+add
+
+Azeri_(Cyrillic)_Azerbaijan.php
+file
+
+
+
+add
+
+Azeri_(Latin)_Azerbaijan.php
+file
+
+
+
+add
+
+Bashkir_Russia.php
+file
+
+
+
+add
+
+Basque_Spain.php
+file
+
+
+
+add
+
+Belarusian_Belarus.php
+file
+
+
+
+add
+
+Bosnian_(Cyrillic)_Bosnia_and_Herzegovina.php
+file
+
+
+
+add
+
+Bosnian_(Latin)_Bosnia_and_Herzegovina.php
+file
+
+
+
+add
+
+Breton_France.php
+file
+
+
+
+add
+
+Bulgarian_Bulgaria.php
+file
+
+
+
+add
+
+Catalan_Spain.php
+file
+
+
+
+add
+
+Corsican_France.php
+file
+
+
+
+add
+
+Croatian_(Latin)_Bosnia_and_Herzegovina.php
+file
+
+
+
+add
+
+Croatian_Croatia.php
+file
+
+
+
+add
+
+Czech_Czech_Republic.php
+file
+
+
+
+add
+
+Danish_Denmark.php
+file
+
+
+
+add
+
+Dari_Afghanistan.php
+file
+
+
+
+add
+
+Dutch_Belgium.php
+file
+
+
+
+add
+
+Dutch_Netherlands.php
+file
+
+
+
+add
+
+English_Australia.php
+file
+
+
+
+add
+
+English_Belize.php
+file
+
+
+
+add
+
+English_Canada.php
+file
+
+
+
+add
+
+English_Caribbean.php
+file
+
+
+
+add
+
+English_India.php
+file
+
+
+
+add
+
+English_Ireland.php
+file
+
+
+
+add
+
+English_Jamaica.php
+file
+
+
+
+add
+
+English_Malaysia.php
+file
+
+
+
+add
+
+English_New_Zealand.php
+file
+
+
+
+add
+
+English_Republic_of_the_Philippines.php
+file
+
+
+
+add
+
+English_Singapore.php
+file
+
+
+
+add
+
+English_South_Africa.php
+file
+
+
+
+add
+
+English_Trinidad_and_Tobago.php
+file
+
+
+
+add
+
+English_United_Kingdom.php
+file
+
+
+
+add
+
+English_United_States.php
+file
+
+
+
+add
+
+English_Zimbabwe.php
+file
+
+
+
+add
+
+Estonian_Estonia.php
+file
+
+
+
+add
+
+Faroese_Faroe_Islands.php
+file
+
+
+
+add
+
+Filipino_Philippines.php
+file
+
+
+
+add
+
+Finnish_Finland.php
+file
+
+
+
+add
+
+French_Belgium.php
+file
+
+
+
+add
+
+French_Canada.php
+file
+
+
+
+add
+
+French_France.php
+file
+
+
+
+add
+
+French_Luxembourg.php
+file
+
+
+
+add
+
+French_Principality_of_Monaco.php
+file
+
+
+
+add
+
+French_Switzerland.php
+file
+
+
+
+add
+
+Frisian_Netherlands.php
+file
+
+
+
+add
+
+Galician_Spain.php
+file
+
+
+
+add
+
+German_Austria.php
+file
+
+
+
+add
+
+German_Germany.php
+file
+
+
+
+add
+
+German_Liechtenstein.php
+file
+
+
+
+add
+
+German_Luxembourg.php
+file
+
+
+
+add
+
+German_Switzerland.php
+file
+
+
+
+add
+
+Greek_Greece.php
+file
+
+
+
+add
+
+Greenlandic_Greenland.php
+file
+
+
+
+add
+
+Hausa_(Latin)_Nigeria.php
+file
+
+
+
+add
+
+Hebrew_Israel.php
+file
+
+
+
+add
+
+Hungarian_Hungary.php
+file
+
+
+
+add
+
+Icelandic_Iceland.php
+file
+
+
+
+add
+
+Igbo_Nigeria.php
+file
+
+
+
+add
+
+Indonesian_Indonesia.php
+file
+
+
+
+add
+
+Inuktitut_(Latin)_Canada.php
+file
+
+
+
+add
+
+Invariant_Language_Invariant_Country.php
+file
+
+
+
+add
+
+Irish_Ireland.php
+file
+
+
+
+add
+
+Italian_Italy.php
+file
+
+
+
+add
+
+Italian_Switzerland.php
+file
+
+
+
+add
+
+Kinyarwanda_Rwanda.php
+file
+
+
+
+add
+
+Kiswahili_Kenya.php
+file
+
+
+
+add
+
+Kyrgyz_Kyrgyzstan.php
+file
+
+
+
+add
+
+Latvian_Latvia.php
+file
+
+
+
+add
+
+Lithuanian_Lithuania.php
+file
+
+
+
+add
+
+Lower_Sorbian_Germany.php
+file
+
+
+
+add
+
+Luxembourgish_Luxembourg.php
+file
+
+
+
+add
+
+Macedonian_(FYROM)_Macedonia_(FYROM).php
+file
+
+
+
+add
+
+Malay_Brunei_Darussalam.php
+file
+
+
+
+add
+
+Malay_Malaysia.php
+file
+
+
+
+add
+
+Mapudungun_Chile.php
+file
+
+
+
+add
+
+Mohawk_Canada.php
+file
+
+
+
+add
+
+Mongolian_(Cyrillic)_Mongolia.php
+file
+
+
+
+add
+
+Norwegian_(Nynorsk)_Norway.php
+file
+
+
+
+add
+
+Occitan_France.php
+file
+
+
+
+add
+
+Persian_Iran.php
+file
+
+
+
+add
+
+Polish_Poland.php
+file
+
+
+
+add
+
+Portuguese_Brazil.php
+file
+
+
+
+add
+
+Portuguese_Portugal.php
+file
+
+
+
+add
+
+Quechua_Bolivia.php
+file
+
+
+
+add
+
+Quechua_Ecuador.php
+file
+
+
+
+add
+
+Quechua_Peru.php
+file
+
+
+
+add
+
+Romanian_Romania.php
+file
+
+
+
+add
+
+Romansh_Switzerland.php
+file
+
+
+
+add
+
+Russian_Russia.php
+file
+
+
+
+add
+
+Sami_(Inari)_Finland.php
+file
+
+
+
+add
+
+Sami_(Lule)_Norway.php
+file
+
+
+
+add
+
+Sami_(Lule)_Sweden.php
+file
+
+
+
+add
+
+Sami_(Northern)_Finland.php
+file
+
+
+
+add
+
+Sami_(Northern)_Norway.php
+file
+
+
+
+add
+
+Sami_(Northern)_Sweden.php
+file
+
+
+
+add
+
+Sami_(Skolt)_Finland.php
+file
+
+
+
+add
+
+Sami_(Southern)_Norway.php
+file
+
+
+
+add
+
+Sami_(Southern)_Sweden.php
+file
+
+
+
+add
+
+Serbian_(Cyrillic)_Bosnia_and_Herzegovina.php
+file
+
+
+
+add
+
+Serbian_(Cyrillic)_Serbia.php
+file
+
+
+
+add
+
+Serbian_(Latin)_Bosnia_and_Herzegovina.php
+file
+
+
+
+add
+
+Serbian_(Latin)_Serbia.php
+file
+
+
+
+add
+
+Sesotho_sa_Leboa_South_Africa.php
+file
+
+
+
+add
+
+Setswana_South_Africa.php
+file
+
+
+
+add
+
+Slovak_Slovakia.php
+file
+
+
+
+add
+
+Slovenian_Slovenia.php
+file
+
+
+
+add
+
+Spanish_Argentina.php
+file
+
+
+
+add
+
+Spanish_Bolivia.php
+file
+
+
+
+add
+
+Spanish_Chile.php
+file
+
+
+
+add
+
+Spanish_Colombia.php
+file
+
+
+
+add
+
+Spanish_Costa_Rica.php
+file
+
+
+
+add
+
+Spanish_Dominican_Republic.php
+file
+
+
+
+add
+
+Spanish_Ecuador.php
+file
+
+
+
+add
+
+Spanish_El_Salvador.php
+file
+
+
+
+add
+
+Spanish_Guatemala.php
+file
+
+
+
+add
+
+Spanish_Honduras.php
+file
+
+
+
+add
+
+Spanish_Mexico.php
+file
+
+
+
+add
+
+Spanish_Nicaragua.php
+file
+
+
+
+add
+
+Spanish_Panama.php
+file
+
+
+
+add
+
+Spanish_Paraguay.php
+file
+
+
+
+add
+
+Spanish_Peru.php
+file
+
+
+
+add
+
+Spanish_Puerto_Rico.php
+file
+
+
+
+add
+
+Spanish_Spain.php
+file
+
+
+
+add
+
+Spanish_United_States.php
+file
+
+
+
+add
+
+Spanish_Uruguay.php
+file
+
+
+
+add
+
+Spanish_Venezuela.php
+file
+
+
+
+add
+
+Swedish_Finland.php
+file
+
+
+
+add
+
+Swedish_Sweden.php
+file
+
+
+
+add
+
+Tajik_(Cyrillic)_Tajikistan.php
+file
+
+
+
+add
+
+Tamazight_(Latin)_Algeria.php
+file
+
+
+
+add
+
+Tatar_Russia.php
+file
+
+
+
+add
+
+Turkish_Turkey.php
+file
+
+
+
+add
+
+Turkmen_Turkmenistan.php
+file
+
+
+
+add
+
+Ukrainian_Ukraine.php
+file
+
+
+
+add
+
+Upper_Sorbian_Germany.php
+file
+
+
+
+add
+
+Urdu_Islamic_Republic_of_Pakistan.php
+file
+
+
+
+add
+
+Uzbek_(Cyrillic)_Uzbekistan.php
+file
+
+
+
+add
+
+Uzbek_(Latin)_Uzbekistan.php
+file
+
+
+
+add
+
+Vietnamese_Vietnam.php
+file
+
+
+
+add
+
+Welsh_United_Kingdom.php
+file
+
+
+
+add
+
+Wolof_Senegal.php
+file
+
+
+
+add
+
+Yakut_Russia.php
+file
+
+
+
+add
+
+Yoruba_Nigeria.php
+file
+
+
+
+add
+
+isiXhosa_South_Africa.php
+file
+
+
+
+add
+
+isiZulu_South_Africa.php
+file
+
+
+
+add
+

@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cpmisweb/!svn/ver/2144/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository
+END
+SpringDataSaaSectionCChildDeatailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionCChildDeatailsRepository.java
+END
+SpringDataAreaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataAreaRepository.java
+END
+SpringDataCwcDetailsTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcDetailsTrainingRepository.java
+END
+SpringDataDCPUSectionLRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionLRepository.java
+END
+SpringDataDCPUDetailsTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUDetailsTrainingRepository.java
+END
+SpringDataSaaSectionJRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionJRepository.java
+END
+SpringDataUserAreaMappingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserAreaMappingRepository.java
+END
+SpringDataIndicatorClassificationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataIndicatorClassificationRepository.java
+END
+SpringDataDCPUSectionHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionHRepository.java
+END
+SpringDataSaaSectionFRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionFRepository.java
+END
+SpringDataDCPUSectionDRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionDRepository.java
+END
+SpringDataSaaSectionBRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionBRepository.java
+END
+SpringDataCwcSectionERepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionERepository.java
+END
+SpringDataSubgroupRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSubgroupRepository.java
+END
+SpringDataCwcSectionARepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionARepository.java
+END
+SpringDataSjpuSectionDRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionDRepository.java
+END
+SpringDataJjbSectionHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionHRepository.java
+END
+SpringDataIndicatorClassification_Ius_Mapping_Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataIndicatorClassification_Ius_Mapping_Repository.java
+END
+SpringDataJjbSectionDRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionDRepository.java
+END
+SpringDataSaaDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cpmisweb/!svn/ver/2142/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaDetailsRepository.java
+END
+SpringDataUserDomainRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserDomainRepository.java
+END
+SpringDataDCPUSectionORepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionORepository.java
+END
+SpringDataCciOHTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciOHTrainingRepository.java
+END
+SpringDataDCPUSectionKRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionKRepository.java
+END
+SpringDataCciSHTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciSHTrainingRepository.java
+END
+SpringDataCciPlaceOfSafetyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/cpmisweb/!svn/ver/2137/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciPlaceOfSafetyRepository.java
+END
+SpringDataDCPUSectionGRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionGRepository.java
+END
+SpringDataSaaSectionERepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionERepository.java
+END
+SpringDataCwcSectionHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionHRepository.java
+END
+SpringDataUnitRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUnitRepository.java
+END
+SpringDataDCPUSectionCRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionCRepository.java
+END
+SpringDataSaaSectionARepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionARepository.java
+END
+SpringDataJjbDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cpmisweb/!svn/ver/2141/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbDetailsRepository.java
+END
+SpringDataCwcSectionDRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionDRepository.java
+END
+SpringDataLoginRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataLoginRepository.java
+END
+SpringDataJjbSectionKRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionKRepository.java
+END
+SpringDataSjpuSectionCRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionCRepository.java
+END
+SpringDataCwcDetaisRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cpmisweb/!svn/ver/2139/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcDetaisRepository.java
+END
+SpringDataUserUserTypeFeaturePermissionMappingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserUserTypeFeaturePermissionMappingRepository.java
+END
+SpringDataSjpuDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/2143/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuDetailsRepository.java
+END
+SpringDataJjbSectionGRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionGRepository.java
+END
+SpringDataCciChildrenHomeTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciChildrenHomeTrainingRepository.java
+END
+SpringDataJjbSectionCRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionCRepository.java
+END
+SpringDataCciOpenShelterRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/cpmisweb/!svn/ver/2136/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciOpenShelterRepository.java
+END
+SpringDataPermissionRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataPermissionRepository.java
+END
+SpringDataTimePeriodRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/cpmisweb/!svn/ver/2144/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataTimePeriodRepository.java
+END
+SpringDataCpmisUserDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/cpmisweb/!svn/ver/2019/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCpmisUserDetailsRepository.java
+END
+SpringDataInstitutionDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataInstitutionDetailsRepository.java
+END
+SpringDataDCPUSectionJRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionJRepository.java
+END
+SpringDataFeatureRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataFeatureRepository.java
+END
+SpringDataSaaSectionHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionHRepository.java
+END
+SpringDataCciOpenShelterTrainingDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciOpenShelterTrainingDetailsRepository.java
+END
+SpringDataDCPUSectionFRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionFRepository.java
+END
+SpringDataPublishHistoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataPublishHistoryRepository.java
+END
+SpringDataSaaSectionDRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionDRepository.java
+END
+SpringDataCwcSectionGRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionGRepository.java
+END
+SpringDataIndicatorRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataIndicatorRepository.java
+END
+SpringDataDCPUSectionBRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionBRepository.java
+END
+SpringDataCwcSectionCRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionCRepository.java
+END
+SpringDataSjpuSectionFRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionFRepository.java
+END
+SpringDataDataEntryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/cpmisweb/!svn/ver/2066/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDataEntryRepository.java
+END
+SpringDataTypeDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataTypeDetailsRepository.java
+END
+SpringDataJjbSectionJRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionJRepository.java
+END
+SpringDataSjpuSectionBRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionBRepository.java
+END
+SpringDataUserTypeFeaturePermissionSchemeRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserTypeFeaturePermissionSchemeRepository.java
+END
+SpringDataSubmissionStatusReportDomainRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSubmissionStatusReportDomainRepository.java
+END
+SpringDataJjbSectionFRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionFRepository.java
+END
+SpringDataUserLoginMetaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/cpmisweb/!svn/ver/2019/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserLoginMetaRepository.java
+END
+SpringDataCciOHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/cpmisweb/!svn/ver/2135/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciOHRepository.java
+END
+SpringDataSJPUDetailsTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSJPUDetailsTrainingRepository.java
+END
+SpringDataUserCredentialsMetaDataRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataUserCredentialsMetaDataRepository.java
+END
+SpringDataJjbSectionBRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionBRepository.java
+END
+SpringDataCciSHRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/cpmisweb/!svn/ver/2138/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciSHRepository.java
+END
+SpringDataDcpuDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/2140/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDcpuDetailsRepository.java
+END
+SpringDataDCPUSectionMRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionMRepository.java
+END
+SpringDataInstitutionUserMappingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataInstitutionUserMappingRepository.java
+END
+SpringDataSaaDetailsTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaDetailsTrainingRepository.java
+END
+SpringDataFeaturePermissionMappingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataFeaturePermissionMappingRepository.java
+END
+SpringDataDCPUSectionIRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionIRepository.java
+END
+SpringDataSaaSectionGRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionGRepository.java
+END
+SpringDataDCPUSectionERepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionERepository.java
+END
+SpringDataIndicatorUnitSubgroupRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataIndicatorUnitSubgroupRepository.java
+END
+SpringDataSaaSectionCRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSaaSectionCRepository.java
+END
+SpringDataCwcSectionFRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionFRepository.java
+END
+SpringDataCciPlaceOfSafetyTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciPlaceOfSafetyTrainingRepository.java
+END
+SpringDataDCPUSectionARepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataDCPUSectionARepository.java
+END
+SpringDataCwcSectionBRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCwcSectionBRepository.java
+END
+SpringDataSjpuSectionERepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionERepository.java
+END
+SpringDataJjbDetailsTrainingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbDetailsTrainingRepository.java
+END
+SpringDataCciChildrenHomeRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/cpmisweb/!svn/ver/2134/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataCciChildrenHomeRepository.java
+END
+SpringDataJjbSectionIRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionIRepository.java
+END
+SpringDataSjpuSectionARepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataSjpuSectionARepository.java
+END
+SpringDataJjbSectionERepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionERepository.java
+END
+SpringDataJjbSectionARepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/springdatarepository/SpringDataJjbSectionARepository.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cpmisweb/!svn/ver/2122/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core
+END
+IndicatorClassificationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/IndicatorClassificationType.java
+END
+UnitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/UnitType.java
+END
+UtUnitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/UtUnitType.java
+END
+AuthorizeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/2122/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/AuthorizeInterceptor.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/Type.java
+END
+Authorize.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/Authorize.java
+END
+IndicatorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/IndicatorType.java
+END
+TableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/core/TableType.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/job
+END
+QuaterlyAggreationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/job/QuaterlyAggreationJob.java
+END
+MonthlyAggregationJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/job/MonthlyAggregationJob.java
+END

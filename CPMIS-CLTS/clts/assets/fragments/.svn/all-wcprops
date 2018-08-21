@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/biharinfo/!svn/ver/180/src/main/webapp/WEB-INF/jsp/fragments
+END
+headTag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/biharinfo/!svn/ver/98/src/main/webapp/WEB-INF/jsp/fragments/headTag.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/biharinfo/!svn/ver/180/src/main/webapp/WEB-INF/jsp/fragments/footer.jsp
+END
+exportandShare.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/biharinfo/!svn/ver/173/src/main/webapp/WEB-INF/jsp/fragments/exportandShare.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/biharinfo/!svn/ver/108/src/main/webapp/WEB-INF/jsp/fragments/menu.jsp
+END
+bodyHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/biharinfo/!svn/ver/171/src/main/webapp/WEB-INF/jsp/fragments/bodyHeader.jsp
+END

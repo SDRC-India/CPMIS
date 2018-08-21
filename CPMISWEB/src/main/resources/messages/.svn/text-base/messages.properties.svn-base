@@ -1,0 +1,24 @@
+#Institution Type Details Id
+institution.typeDetails.id.cwc=1
+institution.typeDetails.id.jjb=2
+institution.typeDetails.id.ccioh=3
+institution.typeDetails.id.ccich=4
+institution.typeDetails.id.ccios=5
+institution.typeDetails.id.ccipos=6
+institution.typeDetails.id.ccish=7
+institution.typeDetails.id.sjpu=8
+institution.typeDetails.id.dcpu=9
+institution.typeDetails.id.saa=10
+institution.typeDetails.id.slu=11
+
+current.timeperiod.value=0
+monthly.periodicity.value=1
+status.report.current.month=Current Month
+accessDenied=You are not authorized to view this page. Please contact the system administrator if you may need any additional information.
+
+duplicatelogin.unauthorized=<h3>You are Logout from other system.</h3><h4 class='access'>Please <span style='color:#4a7196'><a style='text-decoration:none' href='login'>login</a></span> to access this page.</h4>
+duplicatelogin.unauthorized.modal=You are logout from other system. Please login again.
+
+success.logged.out=Successfully logged out!!
+bootstrap.alert.success=alert alert-success
+

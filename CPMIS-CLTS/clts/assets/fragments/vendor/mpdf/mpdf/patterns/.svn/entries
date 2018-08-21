@@ -1,0 +1,126 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf/patterns
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+NOTES.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+de.php
+file
+
+
+
+add
+
+dictionary.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+en.php
+file
+
+
+
+add
+
+es.php
+file
+
+
+
+add
+
+fi.php
+file
+
+
+
+add
+
+fr.php
+file
+
+
+
+add
+
+it.php
+file
+
+
+
+add
+
+nl.php
+file
+
+
+
+add
+
+pl.php
+file
+
+
+
+add
+
+ru.php
+file
+
+
+
+add
+
+sv.php
+file
+
+
+
+add
+

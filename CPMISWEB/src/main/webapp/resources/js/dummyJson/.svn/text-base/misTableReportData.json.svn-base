@@ -1,0 +1,64 @@
+
+
+{
+"tableDetails": [
+{
+		"serialNo" : "1",
+		"districtName" : "Araria",
+		"userType" : "JJB",
+		"facilities" : "-",
+		"submissionstatus" : "Y",
+		"submissionDate" : "04-01-2018"
+},
+{
+		"serialNo" : "2",
+		"districtName" : "Aurangabad",
+		"userType" : "CWC",
+		"facilities" : "-",
+		"submissionstatus" : "Y",
+		"submissionDate" : "02-02-2018"
+},
+{
+		"serialNo" : "3",
+		"districtName" : "Araria",
+		"userType" : "CCI",
+		"facilities" : "-",
+		"submissionstatus" : "N",
+		"submissionDate" : "07-02-2018"
+},
+{
+		"serialNo" : "4",
+		"districtName" : "Bhagalpur",
+		"userType" : "DCPU",
+		"facilities" : "-",
+		"submissionstatus" : "N",
+		"submissionDate" : "09-02-2018"
+},
+{
+		"serialNo" : "5",
+		"districtName" : "Gaya",
+		"userType" : "SJPU",
+		"facilities" : "-",
+		"submissionstatus" : "N",
+		"submissionDate" : "10-02-2018"
+},
+{
+		"serialNo" : "6",
+		"districtName" : "Jamui",
+		"userType" : "CWC",
+		"facilities" : "-",
+		"submissionstatus" : "Y",
+		"submissionDate" : "13-02-2018"
+},
+{
+		"serialNo" : "7",
+		"districtName" : "Jamui",
+		"userType" : "SJPU",
+		"facilities" : "-",
+		"submissionstatus" : "N",
+		"submissionDate" : "22-02-2018"
+}
+]
+}
+
+

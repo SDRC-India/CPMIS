@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cpmisweb/!svn/ver/2157/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view
+END
+AuthException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cpmisweb/!svn/ver/2123/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/AuthException.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cpmisweb/!svn/ver/2116/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/login.jsp
+END
+showMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/showMessage.jsp
+END
+resetPassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/resetPassword.jsp
+END
+ServerErrorException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/2123/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/ServerErrorException.jsp
+END
+childCareInstitution.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/2148/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/childCareInstitution.jsp
+END
+DistrictChildProtectionUnit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2153/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/DistrictChildProtectionUnit.jsp
+END
+childWelfareCommittee.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cpmisweb/!svn/ver/2146/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/childWelfareCommittee.jsp
+END
+specialJuvenliePoliceUnit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2155/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/specialJuvenliePoliceUnit.jsp
+END
+exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cpmisweb/!svn/ver/2123/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/exception.jsp
+END
+userManual.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/userManual.jsp
+END
+maintenance.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cpmisweb/!svn/ver/2107/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/maintenance.jsp
+END
+dashboard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/cpmisweb/!svn/ver/2116/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/dashboard.jsp
+END
+report.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/report.jsp
+END
+juvenileJusticeBoard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/2154/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/juvenileJusticeBoard.jsp
+END
+404exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cpmisweb/!svn/ver/2123/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/404exception.jsp
+END
+specialHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cpmisweb/!svn/ver/2152/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/specialHome.jsp
+END
+placeOfSafetyCCI.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cpmisweb/!svn/ver/2151/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/placeOfSafetyCCI.jsp
+END
+OpenShelter.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/cpmisweb/!svn/ver/2157/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/OpenShelter.jsp
+END
+ChildrenHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cpmisweb/!svn/ver/2147/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/ChildrenHome.jsp
+END
+statusReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/statusReport.jsp
+END
+specializedAdoptionAgency.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2156/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/specializedAdoptionAgency.jsp
+END
+DuplicateLoginUserException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2123/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/webapp/WEB-INF/view/DuplicateLoginUserException.jsp
+END

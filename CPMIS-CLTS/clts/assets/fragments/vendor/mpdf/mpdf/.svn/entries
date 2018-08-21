@@ -1,0 +1,301 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+.gitignore
+file
+
+
+
+add
+
+.travis.yml
+file
+
+
+
+add
+
+CHANGELOG.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CREDITS.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+LICENSE.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+MpdfException.php
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+Tag.php
+file
+
+
+
+add
+
+classes
+dir
+
+
+
+add
+
+collations
+dir
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+compress.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+
+config_fonts-distr-without-OTL.php
+file
+
+
+
+add
+
+config_fonts.php
+file
+
+
+
+add
+
+config_lang2fonts.php
+file
+
+
+
+add
+
+config_script2lang.php
+file
+
+
+
+add
+
+font
+dir
+
+
+
+add
+
+graph.php
+file
+
+
+
+add
+
+graph_cache
+dir
+
+
+
+add
+
+iccprofiles
+dir
+
+
+
+add
+
+includes
+dir
+
+
+
+add
+
+lang2fonts.css
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+mpdf.css
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+mpdf.php
+file
+
+
+
+add
+
+patterns
+dir
+
+
+
+add
+
+phpunit.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+progbar.css
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrcode
+dir
+
+
+
+add
+
+tmp
+dir
+
+
+
+add
+
+ttfontdata
+dir
+
+
+
+add
+
+ttfonts
+dir
+
+
+
+add
+

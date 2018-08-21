@@ -1,0 +1,2394 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf/qrcode/data
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+modele1.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele10.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele11.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele12.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele13.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele14.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele15.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele16.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele17.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele18.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele19.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele20.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele21.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele22.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele23.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele24.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele25.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele26.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele27.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele28.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele29.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele30.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele31.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele32.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele33.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele34.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele35.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele36.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele37.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele38.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele39.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele4.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele40.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele5.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele6.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele7.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele8.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+modele9.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv10_0.dat
+file
+
+
+
+add
+
+qrv10_1.dat
+file
+
+
+
+add
+
+qrv10_2.dat
+file
+
+
+
+add
+
+qrv10_3.dat
+file
+
+
+
+add
+
+qrv11_0.dat
+file
+
+
+
+add
+
+qrv11_1.dat
+file
+
+
+
+add
+
+qrv11_2.dat
+file
+
+
+
+add
+
+qrv11_3.dat
+file
+
+
+
+add
+
+qrv12_0.dat
+file
+
+
+
+add
+
+qrv12_1.dat
+file
+
+
+
+add
+
+qrv12_2.dat
+file
+
+
+
+add
+
+qrv12_3.dat
+file
+
+
+
+add
+
+qrv13_0.dat
+file
+
+
+
+add
+
+qrv13_1.dat
+file
+
+
+
+add
+
+qrv13_2.dat
+file
+
+
+
+add
+
+qrv13_3.dat
+file
+
+
+
+add
+
+qrv14_0.dat
+file
+
+
+
+add
+
+qrv14_1.dat
+file
+
+
+
+add
+
+qrv14_2.dat
+file
+
+
+
+add
+
+qrv14_3.dat
+file
+
+
+
+add
+
+qrv15_0.dat
+file
+
+
+
+add
+
+qrv15_1.dat
+file
+
+
+
+add
+
+qrv15_2.dat
+file
+
+
+
+add
+
+qrv15_3.dat
+file
+
+
+
+add
+
+qrv16_0.dat
+file
+
+
+
+add
+
+qrv16_1.dat
+file
+
+
+
+add
+
+qrv16_2.dat
+file
+
+
+
+add
+
+qrv16_3.dat
+file
+
+
+
+add
+
+qrv17_0.dat
+file
+
+
+
+add
+
+qrv17_1.dat
+file
+
+
+
+add
+
+qrv17_2.dat
+file
+
+
+
+add
+
+qrv17_3.dat
+file
+
+
+
+add
+
+qrv18_0.dat
+file
+
+
+
+add
+
+qrv18_1.dat
+file
+
+
+
+add
+
+qrv18_2.dat
+file
+
+
+
+add
+
+qrv18_3.dat
+file
+
+
+
+add
+
+qrv19_0.dat
+file
+
+
+
+add
+
+qrv19_1.dat
+file
+
+
+
+add
+
+qrv19_2.dat
+file
+
+
+
+add
+
+qrv19_3.dat
+file
+
+
+
+add
+
+qrv1_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv1_1.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv1_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv1_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv20_0.dat
+file
+
+
+
+add
+
+qrv20_1.dat
+file
+
+
+
+add
+
+qrv20_2.dat
+file
+
+
+
+add
+
+qrv20_3.dat
+file
+
+
+
+add
+
+qrv21_0.dat
+file
+
+
+
+add
+
+qrv21_1.dat
+file
+
+
+
+add
+
+qrv21_2.dat
+file
+
+
+
+add
+
+qrv21_3.dat
+file
+
+
+
+add
+
+qrv22_0.dat
+file
+
+
+
+add
+
+qrv22_1.dat
+file
+
+
+
+add
+
+qrv22_2.dat
+file
+
+
+
+add
+
+qrv22_3.dat
+file
+
+
+
+add
+
+qrv23_0.dat
+file
+
+
+
+add
+
+qrv23_1.dat
+file
+
+
+
+add
+
+qrv23_2.dat
+file
+
+
+
+add
+
+qrv23_3.dat
+file
+
+
+
+add
+
+qrv24_0.dat
+file
+
+
+
+add
+
+qrv24_1.dat
+file
+
+
+
+add
+
+qrv24_2.dat
+file
+
+
+
+add
+
+qrv24_3.dat
+file
+
+
+
+add
+
+qrv25_0.dat
+file
+
+
+
+add
+
+qrv25_1.dat
+file
+
+
+
+add
+
+qrv25_2.dat
+file
+
+
+
+add
+
+qrv25_3.dat
+file
+
+
+
+add
+
+qrv26_0.dat
+file
+
+
+
+add
+
+qrv26_1.dat
+file
+
+
+
+add
+
+qrv26_2.dat
+file
+
+
+
+add
+
+qrv26_3.dat
+file
+
+
+
+add
+
+qrv27_0.dat
+file
+
+
+
+add
+
+qrv27_1.dat
+file
+
+
+
+add
+
+qrv27_2.dat
+file
+
+
+
+add
+
+qrv27_3.dat
+file
+
+
+
+add
+
+qrv28_0.dat
+file
+
+
+
+add
+
+qrv28_1.dat
+file
+
+
+
+add
+
+qrv28_2.dat
+file
+
+
+
+add
+
+qrv28_3.dat
+file
+
+
+
+add
+
+qrv29_0.dat
+file
+
+
+
+add
+
+qrv29_1.dat
+file
+
+
+
+add
+
+qrv29_2.dat
+file
+
+
+
+add
+
+qrv29_3.dat
+file
+
+
+
+add
+
+qrv2_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv2_1.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv2_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv2_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv30_0.dat
+file
+
+
+
+add
+
+qrv30_1.dat
+file
+
+
+
+add
+
+qrv30_2.dat
+file
+
+
+
+add
+
+qrv30_3.dat
+file
+
+
+
+add
+
+qrv31_0.dat
+file
+
+
+
+add
+
+qrv31_1.dat
+file
+
+
+
+add
+
+qrv31_2.dat
+file
+
+
+
+add
+
+qrv31_3.dat
+file
+
+
+
+add
+
+qrv32_0.dat
+file
+
+
+
+add
+
+qrv32_1.dat
+file
+
+
+
+add
+
+qrv32_2.dat
+file
+
+
+
+add
+
+qrv32_3.dat
+file
+
+
+
+add
+
+qrv33_0.dat
+file
+
+
+
+add
+
+qrv33_1.dat
+file
+
+
+
+add
+
+qrv33_2.dat
+file
+
+
+
+add
+
+qrv33_3.dat
+file
+
+
+
+add
+
+qrv34_0.dat
+file
+
+
+
+add
+
+qrv34_1.dat
+file
+
+
+
+add
+
+qrv34_2.dat
+file
+
+
+
+add
+
+qrv34_3.dat
+file
+
+
+
+add
+
+qrv35_0.dat
+file
+
+
+
+add
+
+qrv35_1.dat
+file
+
+
+
+add
+
+qrv35_2.dat
+file
+
+
+
+add
+
+qrv35_3.dat
+file
+
+
+
+add
+
+qrv36_0.dat
+file
+
+
+
+add
+
+qrv36_1.dat
+file
+
+
+
+add
+
+qrv36_2.dat
+file
+
+
+
+add
+
+qrv36_3.dat
+file
+
+
+
+add
+
+qrv37_0.dat
+file
+
+
+
+add
+
+qrv37_1.dat
+file
+
+
+
+add
+
+qrv37_2.dat
+file
+
+
+
+add
+
+qrv37_3.dat
+file
+
+
+
+add
+
+qrv38_0.dat
+file
+
+
+
+add
+
+qrv38_1.dat
+file
+
+
+
+add
+
+qrv38_2.dat
+file
+
+
+
+add
+
+qrv38_3.dat
+file
+
+
+
+add
+
+qrv39_0.dat
+file
+
+
+
+add
+
+qrv39_1.dat
+file
+
+
+
+add
+
+qrv39_2.dat
+file
+
+
+
+add
+
+qrv39_3.dat
+file
+
+
+
+add
+
+qrv3_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv3_1.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv3_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv3_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv40_0.dat
+file
+
+
+
+add
+
+qrv40_1.dat
+file
+
+
+
+add
+
+qrv40_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv40_3.dat
+file
+
+
+
+add
+
+qrv4_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv4_1.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv4_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv4_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv5_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv5_1.dat
+file
+
+
+
+add
+
+qrv5_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv5_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv6_0.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv6_1.dat
+file
+
+
+
+add
+
+qrv6_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv6_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv7_0.dat
+file
+
+
+
+add
+
+qrv7_1.dat
+file
+
+
+
+add
+
+qrv7_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv7_3.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv8_0.dat
+file
+
+
+
+add
+
+qrv8_1.dat
+file
+
+
+
+add
+
+qrv8_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv8_3.dat
+file
+
+
+
+add
+
+qrv9_0.dat
+file
+
+
+
+add
+
+qrv9_1.dat
+file
+
+
+
+add
+
+qrv9_2.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+qrv9_3.dat
+file
+
+
+
+add
+
+qrvfr1.dat
+file
+
+
+
+add
+
+qrvfr10.dat
+file
+
+
+
+add
+
+qrvfr11.dat
+file
+
+
+
+add
+
+qrvfr12.dat
+file
+
+
+
+add
+
+qrvfr13.dat
+file
+
+
+
+add
+
+qrvfr14.dat
+file
+
+
+
+add
+
+qrvfr15.dat
+file
+
+
+
+add
+
+qrvfr16.dat
+file
+
+
+
+add
+
+qrvfr17.dat
+file
+
+
+
+add
+
+qrvfr18.dat
+file
+
+
+
+add
+
+qrvfr19.dat
+file
+
+
+
+add
+
+qrvfr2.dat
+file
+
+
+
+add
+
+qrvfr20.dat
+file
+
+
+
+add
+
+qrvfr21.dat
+file
+
+
+
+add
+
+qrvfr22.dat
+file
+
+
+
+add
+
+qrvfr23.dat
+file
+
+
+
+add
+
+qrvfr24.dat
+file
+
+
+
+add
+
+qrvfr25.dat
+file
+
+
+
+add
+
+qrvfr26.dat
+file
+
+
+
+add
+
+qrvfr27.dat
+file
+
+
+
+add
+
+qrvfr28.dat
+file
+
+
+
+add
+
+qrvfr29.dat
+file
+
+
+
+add
+
+qrvfr3.dat
+file
+
+
+
+add
+
+qrvfr30.dat
+file
+
+
+
+add
+
+qrvfr31.dat
+file
+
+
+
+add
+
+qrvfr32.dat
+file
+
+
+
+add
+
+qrvfr33.dat
+file
+
+
+
+add
+
+qrvfr34.dat
+file
+
+
+
+add
+
+qrvfr35.dat
+file
+
+
+
+add
+
+qrvfr36.dat
+file
+
+
+
+add
+
+qrvfr37.dat
+file
+
+
+
+add
+
+qrvfr38.dat
+file
+
+
+
+add
+
+qrvfr39.dat
+file
+
+
+
+add
+
+qrvfr4.dat
+file
+
+
+
+add
+
+qrvfr40.dat
+file
+
+
+
+add
+
+qrvfr5.dat
+file
+
+
+
+add
+
+qrvfr6.dat
+file
+
+
+
+add
+
+qrvfr7.dat
+file
+
+
+
+add
+
+qrvfr8.dat
+file
+
+
+
+add
+
+qrvfr9.dat
+file
+
+
+
+add
+
+rsc10.dat
+file
+
+
+
+add
+
+rsc13.dat
+file
+
+
+
+add
+
+rsc15.dat
+file
+
+
+
+add
+
+rsc16.dat
+file
+
+
+
+add
+
+rsc17.dat
+file
+
+
+
+add
+
+rsc18.dat
+file
+
+
+
+add
+
+rsc20.dat
+file
+
+
+
+add
+
+rsc22.dat
+file
+
+
+
+add
+
+rsc24.dat
+file
+
+
+
+add
+
+rsc26.dat
+file
+
+
+
+add
+
+rsc28.dat
+file
+
+
+
+add
+
+rsc30.dat
+file
+
+
+
+add
+
+rsc32.dat
+file
+
+
+
+add
+
+rsc34.dat
+file
+
+
+
+add
+
+rsc36.dat
+file
+
+
+
+add
+
+rsc40.dat
+file
+
+
+
+add
+
+rsc42.dat
+file
+
+
+
+add
+
+rsc44.dat
+file
+
+
+
+add
+
+rsc46.dat
+file
+
+
+
+add
+
+rsc48.dat
+file
+
+
+
+add
+
+rsc50.dat
+file
+
+
+
+add
+
+rsc52.dat
+file
+
+
+
+add
+
+rsc54.dat
+file
+
+
+
+add
+
+rsc56.dat
+file
+
+
+
+add
+
+rsc58.dat
+file
+
+
+
+add
+
+rsc60.dat
+file
+
+
+
+add
+
+rsc62.dat
+file
+
+
+
+add
+
+rsc64.dat
+file
+
+
+
+add
+
+rsc66.dat
+file
+
+
+
+add
+
+rsc68.dat
+file
+
+
+
+add
+
+rsc7.dat
+file
+
+
+
+add
+

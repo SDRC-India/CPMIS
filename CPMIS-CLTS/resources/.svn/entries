@@ -1,0 +1,49 @@
+10
+
+dir
+180
+http://192.168.1.5/svn/biharinfo/src/main/webapp/resources
+http://192.168.1.5/svn/biharinfo
+
+
+
+2015-09-25T09:54:31.821788Z
+180
+swastika.panda
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+applications
+dir
+
+css
+dir
+
+font
+dir
+
+geomaps
+dir
+
+images
+dir
+
+js
+dir
+
+pdfs
+dir
+

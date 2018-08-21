@@ -1,0 +1,84 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/composer
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+ClassLoader.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+autoload_classmap.php
+file
+
+
+
+add
+
+autoload_namespaces.php
+file
+
+
+
+add
+
+autoload_psr4.php
+file
+
+
+
+add
+
+autoload_real.php
+file
+
+
+
+add
+
+autoload_static.php
+file
+
+
+
+add
+
+installed.json
+file
+
+
+
+add
+

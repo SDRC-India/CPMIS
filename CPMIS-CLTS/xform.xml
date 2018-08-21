@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2015-05-29T09:19:00.562+0000 on http://203.129.205.37:8080/CPMIS -->
+    <h:title>Child Care Institutions (CCIs)Monthly Report</h:title>
+    <model>
+      <instance>
+        <Child_Care_Institutions_CCIs_Monthly_Report_V1 id="Child_Care_Institutions_CCIs_Monthly_Report_V1_20_05_15">
+          <Header1/>
+          <Header2/>
+          <interviewr/>
+          <geo_point_1/>
+          <img1/>
+          <img2/>
+          <date/>
+          <boygirl/>
+          <hometype/>
+          <run/>
+          <capacity/>
+          <District/>
+          <gr1_no1/>
+          <gr1>
+            <gr1_qs1/>
+            <gr1_gr_A>
+              <gr1_gr_A_qs1/>
+              <gr1_gr_A_qs2/>
+              <gr1_gr_A_qs3/>
+              <gr1_gr_A_qs4/>
+            </gr1_gr_A>
+          </gr1>
+          <gr2_no1/>
+          <gr2>
+            <gr2_gr_A>
+              <gr2_gr_A_qs1/>
+              <gr2_gr_A_qs2/>
+              <gr2_gr_A_qs3/>
+              <gr2_gr_A_qs4/>
+            </gr2_gr_A>
+            <gr2_gr_B>
+              <gr2_gr_B_qs1/>
+              <gr2_gr_B_qs2/>
+              <gr2_gr_B_qs3/>
+              <gr2_gr_B_qs4/>
+            </gr2_gr_B>
+            <gr2_gr_C>
+              <gr2_gr_C_qs1/>
+              <gr2_gr_C_qs2/>
+              <gr2_gr_C_qs3/>
+              <gr2_gr_C_qs4/>
+              <gr2_gr_C_cal1/>
+              <gr2_gr_C_total/>
+            </gr2_gr_C>
+          </gr2>
+          <gr3_no1/>
+          <gr3>
+            <gr3_qs1/>
+            <gr3_qs2/>
+            <gr3_qs3/>
+            <gr3_qs4/>
+            <gr3_qs5/>
+            <gr3_qs6/>
+            <gr3_qs7/>
+            <gr3_qs8/>
+            <gr3_qs9/>
+            <gr3_qs9_o/>
+            <gr3_cal1/>
+            <gr3_total/>
+          </gr3>
+          <gr4_no1/>
+          <gr4>
+            <gr4_qs1/>
+            <gr4_qs2/>
+            <gr4_qs3/>
+            <gr4_qs4/>
+            <gr4_qs5/>
+          </gr4>
+          <gr5_no1/>
+          <gr5>
+            <gr5_qs1/>
+            <gr5_qs2/>
+            <gr5_qs3/>
+          </gr5>
+          <total_cal/>
+          <total_warn/>
+          <gr6_no1/>
+          <gr6>
+            <gr6_qs1/>
+            <gr6_qs2/>
+            <gr6_qs3/>
+            <gr6_qs4/>
+            <gr6_qs5/>
+            <gr6_cal1/>
+            <gr6_total/>
+          </gr6>
+          <gr7_no1/>
+          <gr7>
+            <gr7_qs1/>
+            <gr7_qs2/>
+            <gr7_qs3/>
+            <gr7_qs4/>
+            <gr7_qs5/>
+            <gr7_qs6/>
+            <gr7_qs7/>
+            <gr7_qs8/>
+            <gr7_qs9/>
+            <gr7_qs9_cal1/>
+            <gr7_total_warn_/>
+            <gr7_qs10/>
+            <gr7_qs11/>
+            <gr7_qs12/>
+            <gr7_qs13/>
+            <gr7_qs14/>
+            <gr7_qs15/>
+            <gr7_qs16/>
+            <gr7_qs17/>
+            <gr7_qs18/>
+            <gr7_qs19/>
+            <gr7_qs20/>
+            <gr7_qs21/>
+            <gr7_qs21_o/>
+          </gr7>
+          <Superintendent_sign/>
+          <ref/>
+          <IMEI/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </Child_Care_Institutions_CCIs_Monthly_Report_V1>
+      </instance>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Header1" readonly="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Header2" readonly="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/interviewr" required="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/geo_point_1" type="geopoint"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/img1" type="binary"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/img2" type="binary"/>
+      <bind constraint=". &lt;= today()" jr:constraintMsg="Please enter previous date" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/date" required="true()" type="date"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/boygirl" required="true()" type="select1"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/hometype" required="true()" type="select1"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/run" required="true()" type="select1"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/capacity" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/District" required="true()" type="select1"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;= /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;=  /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;=  /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;=  /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs4" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs4" required="true()" type="int"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs1 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs2 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs3 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs4 " nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_cal1" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_total" readonly="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs6" relevant="selected( /Child_Care_Institutions_CCIs_Monthly_Report_V1/hometype ,'1') or selected( /Child_Care_Institutions_CCIs_Monthly_Report_V1/hometype ,'3')" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs7" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs8" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9_o" relevant=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9  &gt;0" required="true()" type="string"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs1 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs2 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs4 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs7  + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs8 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9 " nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_cal1" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_total" readonly="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs5" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs3" required="true()" type="int"/>
+      <bind calculate="( /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_cal1 )- /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_cal1 " nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/total_cal" type="string"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/total_cal " constraint=".&gt;=0 and .= /Child_Care_Institutions_CCIs_Monthly_Report_V1/total_cal " jr:constraintMsg="Value should not be negative. Please check all the data entered and then proceed" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/total_warn" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs5" required="true()" type="int"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs1 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs2 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs3 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs4 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs5 " nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_cal1" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_total" readonly="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7_no1" readonly="true()" type="string"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs1" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs2" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs3" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs4" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs5" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs6" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs7" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;=  /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs8" required="true()" type="int"/>
+      <bind constraint=".&gt;=0 and .&lt;=  /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5 " jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9" required="true()" type="int"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs8 + /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9 " nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9_cal1" type="string"/>
+      <bind calculate=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9_cal1 " constraint=".= /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5  and .= /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9_cal1 " jr:constraintMsg="Value should be equal to the number of children transferred to Other Home . Please check all the data entered and then proceed" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_total_warn_" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs10" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs11" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs12" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs13" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs14" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs15" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs16" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs17" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs18" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs19" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs20" required="true()" type="int"/>
+      <bind constraint=".&gt;=0" jr:constraintMsg="Enter valid data" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs21" required="true()" type="int"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs21_o" relevant=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs21  &gt;0" required="true()" type="string"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Superintendent_sign" type="binary"/>
+      <bind nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/ref" readonly="true()" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/IMEI" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/Child_Care_Institutions_CCIs_Monthly_Report_V1/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Header1">
+      <label>State Child Protection Society
+Department of Social Welfare
+Government of Bihar</label>
+    </input>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Header2">
+      <label>Child Care Institutions (CCIs)Monthly Report</label>
+    </input>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/interviewr">
+      <label>Name of the Interviewer:</label>
+    </input>
+    <input appearance="annotate" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/geo_point_1">
+      <label>Please ensure that co-ordinates are captured under clear sky.</label>
+      <hint>GPS coordinates can only be collected when outside.</hint>
+    </input>
+    <upload appearance="annotate" mediatype="image/*" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/img1">
+      <label>Image 1</label>
+      <hint>Please ensure that the name of the Child Care Institution is clearly visible in the image.</hint>
+    </upload>
+    <upload appearance="annotate" mediatype="image/*" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/img2">
+      <label>Image 2</label>
+      <hint>Please take appropriate image.</hint>
+    </upload>
+    <input appearance="month-year" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/date">
+      <label>Month&amp;year:</label>
+    </input>
+    <select1 ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/boygirl">
+      <label>Type of Institution:</label>
+      <item>
+        <label>Boys</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>Girls</label>
+        <value>2</value>
+      </item>
+    </select1>
+    <select1 ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/hometype">
+      <label>Type of Home:</label>
+      <item>
+        <label>OH</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>CH</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>SPL.H</label>
+        <value>3</value>
+      </item>
+    </select1>
+    <select1 ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/run">
+      <label>Govt./NGO Run:</label>
+      <item>
+        <label>Govt.</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>NGO</label>
+        <value>2</value>
+      </item>
+    </select1>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/capacity">
+      <label>Capacity:</label>
+    </input>
+    <select1 appearance="minimal" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/District">
+      <label>District:</label>
+      <item>
+        <label>Araria</label>
+        <value>IND010007</value>
+      </item>
+      <item>
+        <label>Arwal</label>
+        <value>IND010038</value>
+      </item>
+      <item>
+        <label>Aurangabad</label>
+        <value>IND010033</value>
+      </item>
+      <item>
+        <label>Banka</label>
+        <value>IND010023</value>
+      </item>
+      <item>
+        <label>Begusarai</label>
+        <value>IND010020</value>
+      </item>
+      <item>
+        <label>Bhagalpur</label>
+        <value>IND010022</value>
+      </item>
+      <item>
+        <label>Bhojpur</label>
+        <value>IND010029</value>
+      </item>
+      <item>
+        <label>Buxar</label>
+        <value>IND010030</value>
+      </item>
+      <item>
+        <label>Darbhanga</label>
+        <value>IND010013</value>
+      </item>
+      <item>
+        <label>Gaya</label>
+        <value>IND010034</value>
+      </item>
+      <item>
+        <label>Gopalganj</label>
+        <value>IND010015</value>
+      </item>
+      <item>
+        <label>Jamui</label>
+        <value>IND010036</value>
+      </item>
+      <item>
+        <label>Jehanabad</label>
+        <value>IND010037</value>
+      </item>
+      <item>
+        <label>Kaimur (Bhabua)</label>
+        <value>IND010031</value>
+      </item>
+      <item>
+        <label>Katihar</label>
+        <value>IND010010</value>
+      </item>
+      <item>
+        <label>Khagaria</label>
+        <value>IND010021</value>
+      </item>
+      <item>
+        <label>Kishanganj</label>
+        <value>IND010008</value>
+      </item>
+      <item>
+        <label>Lakhisarai</label>
+        <value>IND010025</value>
+      </item>
+      <item>
+        <label>Madhepura</label>
+        <value>IND010011</value>
+      </item>
+      <item>
+        <label>Madhubani</label>
+        <value>IND010005</value>
+      </item>
+      <item>
+        <label>Munger</label>
+        <value>IND010024</value>
+      </item>
+      <item>
+        <label>Muzaffarpur</label>
+        <value>IND010014</value>
+      </item>
+      <item>
+        <label>Nalanda</label>
+        <value>IND010027</value>
+      </item>
+      <item>
+        <label>Nawada</label>
+        <value>IND010035</value>
+      </item>
+      <item>
+        <label>Pashchim Champaran</label>
+        <value>IND010001</value>
+      </item>
+      <item>
+        <label>Patna</label>
+        <value>IND010028</value>
+      </item>
+      <item>
+        <label>Purba Champaran</label>
+        <value>IND010002</value>
+      </item>
+      <item>
+        <label>Purnia</label>
+        <value>IND010009</value>
+      </item>
+      <item>
+        <label>Rohtas</label>
+        <value>IND010032</value>
+      </item>
+      <item>
+        <label>Saharsa</label>
+        <value>IND010012</value>
+      </item>
+      <item>
+        <label>Samastipur</label>
+        <value>IND010019</value>
+      </item>
+      <item>
+        <label>Saran</label>
+        <value>IND010017</value>
+      </item>
+      <item>
+        <label>Sheikhpura</label>
+        <value>IND010026</value>
+      </item>
+      <item>
+        <label>Sheohar</label>
+        <value>IND010003</value>
+      </item>
+      <item>
+        <label>Sitamarhi</label>
+        <value>IND010004</value>
+      </item>
+      <item>
+        <label>Siwan</label>
+        <value>IND010016</value>
+      </item>
+      <item>
+        <label>Supaul</label>
+        <value>IND010006</value>
+      </item>
+      <item>
+        <label>Vaishali</label>
+        <value>IND010018</value>
+      </item>
+    </select1>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1_no1">
+      <label>Children Residing on the First day of the month</label>
+    </input>
+    <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1">
+      <label>Children Residing on the First day of the month</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_qs1">
+        <label>Total No. of Boys/Girls</label>
+      </input>
+      <group appearance="field-list" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A">
+        <label>Age distribution of Boys/Girls</label>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs1">
+          <label>0 to 5</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs2">
+          <label>6 to 14</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs3">
+          <label>15 to 18</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr1/gr1_gr_A/gr1_gr_A_qs4">
+          <label>&gt;18</label>
+        </input>
+      </group>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2_no1">
+      <label>New Children (Girls/Boys) Admitted in the month</label>
+    </input>
+    <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2">
+      <label>New Children (Girls/Boys) Admitted in the month</label>
+      <group appearance="field-list" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A">
+        <label>Referred by CWC/JJB</label>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs1">
+          <label>0 to 5</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs2">
+          <label>6 to 14</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs3">
+          <label>15 to 18</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_A/gr2_gr_A_qs4">
+          <label>&gt;18</label>
+        </input>
+      </group>
+      <group appearance="field-list" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B">
+        <label>Referred by Others</label>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs1">
+          <label>0 to 5</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs2">
+          <label>6 to 14</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs3">
+          <label>15 to 18</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_B/gr2_gr_B_qs4">
+          <label>&gt;18</label>
+        </input>
+      </group>
+      <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C">
+        <label>Total No. of Children referred</label>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs1">
+          <label>0 to 5</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs2">
+          <label>6 to 14</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs3">
+          <label>15 to 18</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_qs4">
+          <label>&gt;18</label>
+        </input>
+        <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_total">
+          <label>Grand Total : <output value=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr2/gr2_gr_C/gr2_gr_C_cal1 "/></label></input>
+      </group>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3_no1">
+      <label>Institutions/Persons where Children referred</label>
+    </input>
+    <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3">
+      <label>Institutions/Persons where Children referred</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs1">
+        <label>Restored to family</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs2">
+        <label>Sent for foster care</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs3">
+        <label>Sent for Sponshorship</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs4">
+        <label>Admitted to residential school</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs5">
+        <label>Transferred to Other Home</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs6">
+        <label>Released on Bail</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs7">
+        <label>Runaway/Missing</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs8">
+        <label>Due to Death</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9">
+        <label>Others</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_qs9_o">
+        <label>If others , Define :</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_total">
+        <label>Total No. of Children referred : <output value=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr3/gr3_cal1 "/></label></input>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4_no1">
+      <label>Education Details of Children in Homes</label>
+    </input>
+    <group appearance="field-list" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4">
+      <label>Education Details of Children in Homes</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs1">
+        <label>Enroled for special training (RTE)/Bridge course</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs2">
+        <label>Enroled for Formal Education System within Home</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs3">
+        <label>Attending Pre school</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs4">
+        <label>Not enrolled in any educational programme</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr4/gr4_qs5">
+        <label>Total Number of Children</label>
+      </input>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5_no1">
+      <label>Health Status of the Children Residing in the Home</label>
+    </input>
+    <group appearance="field-list" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5">
+      <label>Health Status of the Children Residing in the Home</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs1">
+        <label>Mentally Challenged</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs2">
+        <label>Physically Challenged</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr5/gr5_qs3">
+        <label>Suffering with critical illness (TB,HIV AIDS etc)</label>
+      </input>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/total_warn">
+      <label>The total children on the last day of the month :</label>
+    </input>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6_no1">
+      <label>Children residing in the Homes</label>
+    </input>
+    <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6">
+      <label>Children residing in the Homes</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs1">
+        <label>Less than 3 mths</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs2">
+        <label>3-4 mths</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs3">
+        <label>4-8 mths</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs4">
+        <label>8-12 mths</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_qs5">
+        <label>More than 12 mths</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_total">
+        <label>Total No. Children : <output value=" /Child_Care_Institutions_CCIs_Monthly_Report_V1/gr6/gr6_cal1 "/></label></input>
+    </group>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7_no1">
+      <label>Details of cases dealt with (In the reporting month)</label>
+    </input>
+    <group ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7">
+      <label>Details of cases dealt with (In the reporting month)</label>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs1">
+        <label>Number of Adoptable Children</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs2">
+        <label>Number of Children with Single Parent</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs3">
+        <label>Number of Children without parental care/without adult support</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs4">
+        <label>Number of Children referred by Dhawa Dal</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs5">
+        <label>Number of Children referred by Child Line</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs6">
+        <label>Number of Children by NGO/Others</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs7">
+        <label>Number of Children referred to Hospital/PHC/clinics</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs8">
+        <label>Number of Children transferred to Home within the state</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs9">
+        <label>Number of Children transferred to Home outside the state</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_total_warn_">
+        <label>Total number of Children transferred is :</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs10">
+        <label>Number of Physicallly Challenged Children</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs11">
+        <label>Number of Mentally Challenged Children</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs12">
+        <label>Total number of Individual care plan prepared</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs13">
+        <label>Number of Children referred to Psychiatric treatment</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs14">
+        <label>Number of children entered First time (only for CNCP)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs15">
+        <label>Number of children entered second time or more (only for CNCP)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs16">
+        <label>Number of children entered sent for After care</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs17">
+        <label>Number of First time offenders children(only for JCL)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs18">
+        <label>Number of Repeat offenders Children(only for JCL)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs19">
+        <label>Number of Children Charged for Non-serious Offences(only for JCL)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs20">
+        <label>Number of Children Charged for Serious Offences(only for JCL)</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs21">
+        <label>Any Other</label>
+      </input>
+      <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/gr7/gr7_qs21_o">
+        <label>Please Specify Here</label>
+      </input>
+    </group>
+    <upload appearance="signature" mediatype="image/*" ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/Superintendent_sign">
+      <label>Signature Superintendent</label>
+      <hint>Please ensure that the signature is clearly visible.</hint>
+    </upload>
+    <input ref="/Child_Care_Institutions_CCIs_Monthly_Report_V1/ref">
+      <label>Reference : 
+Email ID- scpsbihar@gmail.com
+Telephone- 0612-2545033 
+Fax No.- 06122545033</label>
+    </input>
+  </h:body>
+</h:html>

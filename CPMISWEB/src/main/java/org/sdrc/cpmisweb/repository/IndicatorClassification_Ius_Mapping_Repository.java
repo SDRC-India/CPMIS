@@ -1,0 +1,15 @@
+package org.sdrc.cpmisweb.repository;
+
+import org.sdrc.cpmisweb.domain.IndicatorClassification;
+import org.sdrc.cpmisweb.domain.IndicatorClassificationIndicatorUnitSubgroupMapping;
+import org.sdrc.cpmisweb.domain.IndicatorUnitSubgroup;
+
+
+public interface IndicatorClassification_Ius_Mapping_Repository {
+	
+	
+	public IndicatorClassificationIndicatorUnitSubgroupMapping save(IndicatorClassificationIndicatorUnitSubgroupMapping ic_ius);
+
+	public IndicatorClassificationIndicatorUnitSubgroupMapping findByIndicatorClassificationAndIndicatorUnitSubgroup(IndicatorClassification icSubSector, IndicatorUnitSubgroup ius);
+
+}

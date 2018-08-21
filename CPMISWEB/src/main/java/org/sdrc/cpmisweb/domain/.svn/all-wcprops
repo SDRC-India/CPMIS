@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain
+END
+Indicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Indicator.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Permission.java
+END
+CPMISUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CPMISUserDetails.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Area.java
+END
+CciOpenShelterTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciOpenShelterTraining.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cpmisweb/!svn/ver/2000/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Data.java
+END
+InstitutionDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/InstitutionDetails.java
+END
+TypeDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/TypeDetails.java
+END
+UserTypeFeaturePermissionScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/cpmisweb/!svn/ver/2118/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserTypeFeaturePermissionScheme.java
+END
+PublishHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/PublishHistory.java
+END
+UserLoginMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/2119/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserLoginMeta.java
+END
+CciOH.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cpmisweb/!svn/ver/2132/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciOH.java
+END
+UserCredentialsMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserCredentialsMetaData.java
+END
+Subgroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Subgroup.java
+END
+CciSH.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/cpmisweb/!svn/ver/2132/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciSH.java
+END
+CciOHTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciOHTraining.java
+END
+CciSHTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciSHTraining.java
+END
+AreaLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/AreaLevel.java
+END
+SubmissionStatusReportDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/SubmissionStatusReportDomain.java
+END
+IndicatorUnitSubgroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cpmisweb/!svn/ver/2100/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/IndicatorUnitSubgroup.java
+END
+UserDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserDomain.java
+END
+Timeperiod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Timeperiod.java
+END
+SectorSourceMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/SectorSourceMapping.java
+END
+InstitutionUserMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/InstitutionUserMapping.java
+END
+FeaturePermissionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cpmisweb/!svn/ver/2118/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/FeaturePermissionMapping.java
+END
+CciChildrenHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2132/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciChildrenHome.java
+END
+CciPlaceOfSafety.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2132/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciPlaceOfSafety.java
+END
+Unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Unit.java
+END
+CciPlaceOfSafetyTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciPlaceOfSafetyTraining.java
+END
+CciChildrenHomeTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciChildrenHomeTraining.java
+END
+ReportData.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/ReportData.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Type.java
+END
+UserUserTypeFeaturePermissionMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/cpmisweb/!svn/ver/2094/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserUserTypeFeaturePermissionMapping.java
+END
+UserAreaMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2113/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/UserAreaMapping.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/Feature.java
+END
+IndicatorClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/2012/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/IndicatorClassification.java
+END
+CciOpenShelter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/2132/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/CciOpenShelter.java
+END
+IndicatorClassificationIndicatorUnitSubgroupMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/domain/IndicatorClassificationIndicatorUnitSubgroupMapping.java
+END

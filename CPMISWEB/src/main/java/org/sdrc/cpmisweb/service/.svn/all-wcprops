@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cpmisweb/!svn/ver/2143/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cpmisweb/!svn/ver/2100/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/UserService.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2100/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/UserServiceImpl.java
+END
+SaaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2142/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SaaServiceImpl.java
+END
+SaaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cpmisweb/!svn/ver/2142/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SaaService.java
+END
+DashboardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/DashboardService.java
+END
+WebServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2069/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/WebServiceImpl.java
+END
+DashboardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cpmisweb/!svn/ver/2069/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/DashboardServiceImpl.java
+END
+WebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/WebService.java
+END
+SjpuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SjpuService.java
+END
+SjpuServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2143/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SjpuServiceImpl.java
+END
+CciSHServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cpmisweb/!svn/ver/2138/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciSHServiceImpl.java
+END
+CciSHService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciSHService.java
+END
+SubmissionReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cpmisweb/!svn/ver/2100/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SubmissionReportServiceImpl.java
+END
+SubmissionReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/SubmissionReportService.java
+END
+JjbServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2141/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/JjbServiceImpl.java
+END
+AggregationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/AggregationService.java
+END
+JjbService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/JjbService.java
+END
+CciOHServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cpmisweb/!svn/ver/2135/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciOHServiceImpl.java
+END
+CciOHService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciOHService.java
+END
+AggregationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/2133/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/AggregationServiceImpl.java
+END
+CciChildrenHomeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cpmisweb/!svn/ver/2134/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciChildrenHomeServiceImpl.java
+END
+CciChildrenHomeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciChildrenHomeService.java
+END
+CciPlaceOfSafetyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/cpmisweb/!svn/ver/2137/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciPlaceOfSafetyServiceImpl.java
+END
+CciPlaceOfSafetyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciPlaceOfSafetyService.java
+END
+LoginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cpmisweb/!svn/ver/2131/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/LoginServiceImpl.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/LoginService.java
+END
+CwcServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/cpmisweb/!svn/ver/2139/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CwcServiceImpl.java
+END
+CwcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CwcService.java
+END
+CciOpenShelterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/cpmisweb/!svn/ver/2136/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciOpenShelterServiceImpl.java
+END
+CciOpenShelterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/CciOpenShelterService.java
+END
+ReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/cpmisweb/!svn/ver/2067/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/ReportServiceImpl.java
+END
+ReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/ReportService.java
+END
+ConfigurationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/ConfigurationServiceImpl.java
+END
+ConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/ConfigurationService.java
+END
+MailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/MailService.java
+END
+MailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/MailServiceImpl.java
+END
+DcpuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/cpmisweb/!svn/ver/1986/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/DcpuService.java
+END
+DcpuServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cpmisweb/!svn/ver/2140/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc/cpmisweb/service/DcpuServiceImpl.java
+END

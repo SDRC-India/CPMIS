@@ -1,0 +1,34 @@
+10
+
+dir
+2158
+http://192.168.1.5/svn/cpmisweb/branches/uatrelease1.0.0_trunk1.0.0/CPMISWEB/src/main/java/org/sdrc
+http://192.168.1.5/svn/cpmisweb
+
+
+
+2018-06-18T08:07:10.686336Z
+2144
+pratyush.rath
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+90f08688-d47d-424b-acd3-054d79836167
+
+core
+dir
+
+cpmisweb
+dir
+

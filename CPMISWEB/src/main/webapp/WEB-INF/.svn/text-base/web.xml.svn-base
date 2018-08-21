@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         id="WebApp_ID" version="2.5">
+
+    <display-name>CPMISWEB</display-name>
+    
+    <welcome-file-list>
+    	<welcome-file>login.jsp</welcome-file>
+    </welcome-file-list>
+   <!--
+		- Location of the XML file that defines the root application context.
+		- Applied by ContextLoaderListener.
+	-->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>classpath:spring/application-config.xml</param-value>
+    </context-param>
+
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+    
+    <!-- Used to receive session related event -->
+    <listener>
+	    <listener-class>org.springframework.security.web.session.HttpSessionEventPublisher</listener-class>
+	</listener>
+	<listener>
+	    <listener-class>org.sdrc.cpmisweb.util.ApplicationSessionListener</listener-class>
+	</listener>
+	
+    <session-config>
+		<session-timeout>60</session-timeout>
+		<!-- Disables URL-based sessions (no more 'jsessionid' in the URL using Tomcat) -->
+		<tracking-mode>COOKIE</tracking-mode>
+	</session-config>
+    
+    <!--
+		- Servlet that dispatches request to registered handlers (Controller implementations).
+	-->
+    <servlet>
+        <servlet-name>dispatcherServlet</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>classpath:spring/mvc-config.xml</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>dispatcherServlet</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+    
+    <filter>
+	    <filter-name>httpMethodFilter</filter-name>
+	    <filter-class>org.springframework.web.filter.HiddenHttpMethodFilter</filter-class>
+	 </filter>
+	 
+	 <filter-mapping>
+	    <filter-name>httpMethodFilter</filter-name>
+	    <servlet-name>collect</servlet-name>
+	 </filter-mapping>
+
+	
+	<!-- <error-page>
+		<error-code>404</error-code>
+		<location>/WEB-INF/404exception.jsp</location>
+	</error-page>  -->
+	
+	<filter>
+	    <filter-name>CORS</filter-name>
+	    <filter-class>com.thetransactioncompany.cors.CORSFilter</filter-class>
+	    <init-param>
+	      <param-name>cors.supportedHeaders</param-name>
+	      <param-value>Content-Type,Accept,Origin</param-value>
+	    </init-param>
+  	</filter>
+	<filter-mapping>
+	    <filter-name>CORS</filter-name>
+	    <url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	
+	<!-- <filter>
+		<filter-name>xFrameOptionsFilter</filter-name>
+		<filter-class>org.sdrc.cpmisweb.util.XFrameOptionsFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>xFrameOptionsFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping> -->
+	<!-- <security-constraint>
+		<web-resource-collection>
+			<web-resource-name>Automatic Forward to HTTPS/SSL</web-resource-name>
+			<url-pattern>/*</url-pattern>
+		</web-resource-collection>
+		<user-data-constraint>
+			<transport-guarantee>CONFIDENTIAL</transport-guarantee>
+		</user-data-constraint>
+	</security-constraint> -->
+</web-app>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	<!-- production path -->
+	<property name="DEV_HOME" value="/opt/CPMISWEBLOGs/logs" />
+	<!-- <property name="DEV_HOME" value="E:/CPMISWEBLOGs/logs" /> -->
+<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <charset>UTF-8</charset>
+            <Pattern>%d %-4relative [%thread] %-5level %logger{35} - %msg%n</Pattern>
+        </encoder>
+</appender>        
+<appender name="FILE-AUDIT"
+	class="ch.qos.logback.core.rolling.RollingFileAppender">
+	<file>${DEV_HOME}/cpmisweb-test.log</file>
+	<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+		<Pattern>
+			%d{dd-MM-yyyy HH:mm:ss.SSS} - %msg%n
+		</Pattern>
+	</encoder>
+
+	<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+		<!-- rollover daily -->
+			<fileNamePattern>${DEV_HOME}/archived/debug-test.%d{dd-MM-yyyy}.%i.log
+			</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy
+				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>100MB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+	</rollingPolicy>
+</appender>
+
+<appender name="EMAIL" class="ch.qos.logback.classic.net.SMTPAppender">
+		<smtpHost>smtp.gmail.com</smtpHost>
+		<STARTTLS>true</STARTTLS>
+		<asynchronousSending>false</asynchronousSending>
+		<username>prakash@sdrc.co.in</username>
+		<password>cpmisweb123</password>
+		<smtpPort>587</smtpPort>
+		<to>prakash@sdrc.co.in</to>
+		<from>prakash@sdrc.co.in</from>
+		<subject>Exception Occurred in Cpmisweb : %logger{20} </subject>
+
+		<layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%d {HH:mm:ss.SSS} [%thread] %-5level %logger {1} -%msg -e%n   </pattern>
+        </layout>
+				
+</appender>
+	
+<logger name="org.sdrc.cpmisweb" level="error" additivity="false">
+	 <appender-ref ref="EMAIL" />
+	 <appender-ref ref="console" />
+</logger>
+	
+<logger name="org.sdrc.cpmisweb" level="info" additivity="false">
+	<appender-ref ref="FILE-AUDIT" />
+	<appender-ref ref="console" />
+</logger>
+
+<logger name="org.sdrc.cpmisweb">  
+    <level value="INFO"></level>  
+    <appender-ref ref="console" />
+    <appender-ref ref="FILE-AUDIT"></appender-ref>  
+</logger>
+
+<root level="error">
+    <appender-ref ref="console" />
+	<appender-ref ref="FILE-AUDIT" />
+	<appender-ref ref="EMAIL" />
+</root>
+
+</configuration>

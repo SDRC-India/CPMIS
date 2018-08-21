@@ -1,0 +1,10 @@
+{
+ 
+	"periodicities": [ {
+		"time_name" : "Monthly",
+		"timeId" : "1"
+	}, {
+		"time_name" : "Quarterly",
+		"timeId" : "2"
+	}]
+}

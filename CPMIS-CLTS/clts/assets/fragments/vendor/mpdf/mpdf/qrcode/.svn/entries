@@ -1,0 +1,84 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf/qrcode
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+_LGPL.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+_lisez_moi.txt
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+data
+dir
+
+
+
+add
+
+image.php
+file
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+qrcode.class.php
+file
+
+
+
+add
+
