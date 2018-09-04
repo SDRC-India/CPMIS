@@ -1,0 +1,364 @@
+10
+
+dir
+0
+http://192.168.1.5/svn/biharinfo/src/main/webapp/WEB-INF/jsp/fragments/vendor/mpdf/mpdf/ttfontdata
+http://192.168.1.5/svn/biharinfo
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6e339ec2-d513-9947-bad3-5a5decef3a53
+
+.gitignore
+file
+
+
+
+add
+
+dejavusanscondensed.GDEFdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.GPOSdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.KUR .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.SND .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.URD .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.nko .DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.GSUBdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.cw127.php
+file
+
+
+
+add
+
+dejavusanscondensed.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.mtx.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GDEFdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GPOSdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.KUR .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.SND .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.URD .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.nko .DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.GSUBdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensed.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensed.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensed.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensedB.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensedB.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensedB.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensedBI.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensedBI.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensedBI.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensedI.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensedI.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensedI.mtx.php
+file
+
+
+
+add
+
