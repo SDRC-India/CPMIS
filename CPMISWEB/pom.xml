@@ -113,6 +113,13 @@
 
 	<dependencies>
 	
+		<!-- https://mvnrepository.com/artifact/com.codesnippets4all/xss-filter -->
+		<!-- <dependency>
+		    <groupId>com.codesnippets4all</groupId>
+		    <artifactId>xss-filter</artifactId>
+		    <version>1.1</version>
+		</dependency> -->
+	
 	<!-- https://mvnrepository.com/artifact/org.xhtmlrenderer/core-renderer -->
 		<dependency>
 		    <groupId>org.xhtmlrenderer</groupId>
